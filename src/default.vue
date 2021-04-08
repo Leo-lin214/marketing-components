@@ -17,7 +17,10 @@ export default {
     return {
       list: [
         { name: '老虎机', path: '/tigers' },
-        { name: '抓娃娃', path: '/grab' }
+        { name: '抓娃娃', path: '/grab' },
+        { name: '九宫格', path: '/jiugongge' },
+        { name: '大转盘', path: '/wheel' },
+        { name: '翻牌游戏', path: '/flip' }
       ]
     }
   }
